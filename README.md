@@ -1,5 +1,5 @@
 # DataScience
-Placeholder for Data Science Learning Path Files
+
 Relax with me, Candace O'Sullivan-Sutherland, Friday nights 7-10PM (ZOOM Meeting) as I share "Data Science Learning Path" training
 content provided by "Data Science Super Data Science sdsclub.com/Udemy" (9 courses 123 hours Video and 17 Case Studies). 
 
