@@ -10,5 +10,6 @@ Full Details and Links can be found in "DataScienceLearningPath.pdf"
 
 We start June 17, 2020  with "Data Science A-Z: Real-Life Data Science (Exercises Included]" (21 hours)
 
+~CandyO
 
 
