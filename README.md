@@ -10,6 +10,8 @@ Full Details and Links can be found in "DataScienceLearningPath.pdf"
 
 We start June 17, 2020  with "Data Science A-Z: Real-Life Data Science (Exercises Included]" (21 hours)
 
+Attend the TSSG (Technical Skills Share Group) General Meeting Wednesdays 1230-4PM Acton MA EST (Zoom Meeting ID 239 887 448) for details! 
+
 ~CandyO
 
 
